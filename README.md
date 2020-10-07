@@ -19,7 +19,7 @@ Usages :
 ```   
 **Enabling Error/Warning**   
 ```shell  
-$ ./phpErr.sh -e
+$ sudo ./phpErr.sh -e
 
 [+] Creating backup file
 [-] Backup file already exists.
@@ -29,7 +29,7 @@ Exiting....
 ```   
 **Disabling Error/Warning**   
 ```shell  
-$ ./phpErr.sh -d 
+$ sudo ./phpErr.sh -d 
 
 [+] Creating backup file
 [-] Backup file already exists.
